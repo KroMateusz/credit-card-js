@@ -6,8 +6,8 @@
 
 .credit-card .front,
 .credit-card .back {
-	background-color: hsl(200, 80%, 30%);
-	border: 1px solid hsl(200, 80%, 10%);
+	background-color: hsl(26, 97%, 61%);
+	border: 1px solid hsl(26, 60%, 44%);
 	border-radius: 0.5rem;
 	width: 325px;
 	height: 150px;
@@ -123,7 +123,7 @@
 }
 
 .credit-card .stripe {
-	background-color: hsl(200, 80%, 10%);
+	background-color: hsl(0, 0%, 0%);
 	height: 35px;
 	position: absolute;
 	top: 1.5rem;
